@@ -66,6 +66,8 @@ The data is about whether a client has payment difficulties.
 
 3. 'columns_description.csv' is data dictionary which describes the meaning of the variables.
 
+Please click on this link to find the dataset: https://drive.google.com/drive/folders/1HsVEiU37kFPV8mF8Z1fqL39t3dPzIPzq?usp=share_link
+
 
 **Solution**
 
